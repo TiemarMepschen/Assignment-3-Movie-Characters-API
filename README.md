@@ -21,7 +21,7 @@ Afterwards, we created a Web API using ASP.NET Core to interact with this databa
 ## Getting started
 Clone the repository locally
 ```
-git clone https://gitlab.com/tiemarmepschen/assignment-3-movie-characters-api.git
+git clone https://github.com/TiemarMepschen/Assignment-3-Movie-Characters-API.git
 ```
 Open in Visual Studio.
 
